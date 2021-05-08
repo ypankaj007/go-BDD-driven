@@ -1,4 +1,4 @@
-module go-BDD-driven/api
+module go-BDD-driven
 
 go 1.14
 
